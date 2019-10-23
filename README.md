@@ -1,9 +1,9 @@
 # assessment
 This is a webdriverIO project by David Mangena. 
 
-To install npm install
+1. Run npm install to install all modules listed as dependencies in package.json
 
-To run the project npm test
+2. To run the project npm test
 
 Project Application: http://www.way2automation.com/angularjs-protractor/webtables/
 
