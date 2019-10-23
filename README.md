@@ -15,5 +15,5 @@ Node: https://nodejs.org/en/
 
 Video Reporter: https://webdriver.io/docs/wdio-video-reporter.html: 
 
-Reports are in the Results folder, and please note the tool is slow this because its saving all videos while running the test.
-You can disable the video in wdio.config.js file, and set save AllVideos to fales under reporters section.
+Reports are in Resultsfolder,Please note the tool is slightly slow this because its saving all videos while running the test.
+You can disable saving of videos in wdio.config.js file, and set save AllVideos to fales under reporters section.
