@@ -1,0 +1,24 @@
+{
+    "name": "bishop-selenium-tests",
+    "version": "0.0.0",
+    "description": "Required files",
+    "main": "index.js",
+    "scripts": {
+      "test:sasko": "mocha ./bishop/sasko/test-*.js --timeout 600000",
+      "test:morningsync": "mocha ./test/morningsync/test-*.js --timeout 600000",
+    },
+    "author": "",
+    "license": "ISC",
+    "preferGlobal": true,
+    "devDependencies": {
+      "chai": "^4.2.0",
+      "chai-as-promised": "^7.1.1",
+      "dateformat": "*",
+      "mocha": "*",
+      "mochawesome": "^3.0.3",
+      "selenium-webdriver": "^2.53.3",
+      "simple-headless-chrome": "3.3.0"
+    },
+    "//": "mocha is our preference, but you can use any test runner you like",
+    "dependencies": {}
+}  

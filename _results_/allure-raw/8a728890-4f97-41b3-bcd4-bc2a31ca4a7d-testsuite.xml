@@ -1,0 +1,151 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1571816986298' stop='1571817000862'>
+    <name>Task 2 Web </name>
+    <title>Task 2 Web </title>
+    <test-cases>
+        <test-case start='1571816986323' status='passed' stop='1571816987950'>
+            <name>Navigate to web</name>
+            <title>Navigate to web</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Execution video' source='35df44ec-e040-4746-8ea7-b9283259ae7f-attachment.mp4' type='video/mp4' size='124'/>
+            </attachments>
+        </test-case>
+        <test-case start='1571816987985' status='passed' stop='1571816988394'>
+            <name>Validate that you are on the User List Table</name>
+            <title>Validate that you are on the User List Table</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Execution video' source='e68b9fe9-52b0-49e3-8691-6969a740bbba-attachment.mp4' type='video/mp4' size='153'/>
+            </attachments>
+        </test-case>
+        <test-case start='1571816988397' status='passed' stop='1571816988827'>
+            <name>Click Add user</name>
+            <title>Click Add user</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Execution video' source='ad275577-1db2-499c-b0af-e9a82861f937-attachment.mp4' type='video/mp4' size='123'/>
+            </attachments>
+        </test-case>
+        <test-case start='1571816988839' status='passed' stop='1571816993703'>
+            <name>Add users with details</name>
+            <title>Add users with details</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Execution video' source='c7f08ebe-ae7f-4e45-83f3-72236f239734-attachment.mp4' type='video/mp4' size='131'/>
+            </attachments>
+        </test-case>
+        <test-case start='1571816993717' status='passed' stop='1571816994355'>
+            <name>Ensure that User Name (*) is unique on each run</name>
+            <title>Ensure that User Name (*) is unique on each run</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Execution video' source='26df8592-ee3b-4196-ad56-0d60a955fa0e-attachment.mp4' type='video/mp4' size='153'/>
+            </attachments>
+        </test-case>
+        <test-case start='1571816994358' status='passed' stop='1571816994668'>
+            <name>Click Add user</name>
+            <title>Click Add user</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Execution video' source='6ddb08c7-2518-4541-bc7d-651be3c984fb-attachment.mp4' type='video/mp4' size='123'/>
+            </attachments>
+        </test-case>
+        <test-case start='1571816994672' status='passed' stop='1571816999803'>
+            <name>Add users with details</name>
+            <title>Add users with details</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Execution video' source='825cc182-888d-4b77-a02b-3b2c9872dcea-attachment.mp4' type='video/mp4' size='131'/>
+            </attachments>
+        </test-case>
+        <test-case start='1571816999808' status='passed' stop='1571817000408'>
+            <name>Ensure that User Name (*) is unique on each run</name>
+            <title>Ensure that User Name (*) is unique on each run</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Execution video' source='20146ec7-edff-4190-a7be-8ba97a21a7fd-attachment.mp4' type='video/mp4' size='153'/>
+            </attachments>
+        </test-case>
+        <test-case start='1571817000413' status='passed' stop='1571817000855'>
+            <name>Ensure that your users are added to the list</name>
+            <title>Ensure that your users are added to the list</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Execution video' source='c03a51d4-dc20-4c46-a439-d44bbf34d51b-attachment.mp4' type='video/mp4' size='153'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
