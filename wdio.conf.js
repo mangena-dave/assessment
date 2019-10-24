@@ -144,7 +144,7 @@ exports.config = {
     //         videoSlowdownMultiplier: 100, // Higher to get slower videos, lower for faster videos [Value 1-100]
     //     }],
     //   ],
-      reporters: [
+      reporters: ['spec','dot',
         [video, {
           saveAllVideos: true,       // If true, also saves videos for successful test cases
           videoSlowdownMultiplier: 3, // Higher to get slower videos, lower for faster videos [Value 1-100]
