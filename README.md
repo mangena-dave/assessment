@@ -9,6 +9,10 @@ Project Application: http://www.way2automation.com/angularjs-protractor/webtable
 
 WebdriverIO v5 : https://webdriver.io
 
+mocha-framework v5: https://mochajs.org/
+
+Chai: https://www.chaijs.com/
+
 VS Code: https://code.visualstudio.com/
 
 Node: https://nodejs.org/en/
